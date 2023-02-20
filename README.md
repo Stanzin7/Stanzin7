@@ -8,7 +8,7 @@ About Myself :)
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stanzin7" alt="stanzin7" /></a> </p>
 
-- 🔭 I’m currently working on [Codeblocks](linkk)
+- 🔭 I’m currently working on [Codingblocks](linkk)
 
 - 🌱 I’m currently learning **JAVA**
 
