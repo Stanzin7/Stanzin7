@@ -1,6 +1,6 @@
 # Stanzin-Readme
 
-About Myself :)
+
 <h1 align="center">Hi 👋, I'm Stanzin</h1>
 <h3 align="center">A passionate JAVA DSA tutor from India</h3>
 
