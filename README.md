@@ -1,27 +1,27 @@
 # Stanzin-Readme
 
 <h1 align="center">Hi 👋, I'm Stanzin</h1>
-<h3 align="center">A passionate JAVA DSA tutor from India</h3>
+<h3 align="center">As an aspiring software engineer with a diverse skill set and passion for innovation, I am actively seeking an internship opportunity to contribute my expertise to cutting-edge software projects. With a background in computer science and a strong interest in open source development, I am highly motivated to learn from experienced professionals and collaborate with peers to create innovative, cost-effective softwares. My active participation on GitHub and within the open source community demonstrates my dedication to advancing the field of software engineering, and I am eager to apply these skills in a real-world setting.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=stanzin7&label=Profile%20views&color=0e75b6&style=flat" alt="stanzin7" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stanzin7" alt="stanzin7" /></a> </p>
 
-- 🔭 I’m currently working on [Codingblocks](linkk)
+- 🔭 I’m currently working as a part-time Problem Adder with [Codingblocks](linkk)
 
-- 🌱 I’m currently learning **JAVA**
+- 🌱 I’m currently learning web development **JAVA**
 
 - 👯 I’m looking to collaborate on [JAVA enthusiastic](linkk)
 
-- 🤝 I’m looking for help with [JAVA Mentor](linkk)
+- 🤝 Happy to assist with software solutions [JAVA Mentor](linkk)
 
 - 💬 Ask me about **JAVA**
 
-- 📫 How to reach me **mail@gmail.com**
+- 📫 How to reach me **s.norzang65@gmail.com**
 
-- 📄 Know about my experiences [myresumedrivelink](myresumedrivelink)
+- 📄 Know about my experiences [[myresumedrivelink](https://rb.gy/ejpjnj)](myresumedrivelink)
 
-- ⚡ Fun fact **i think i am funny**
+- ⚡ Fun fact ** I also play guitar professionally**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
