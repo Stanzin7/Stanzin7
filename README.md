@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working as a part-time Problem Adder with [Codingblocks](linkk)
 
-- 🌱 I’m currently learning web development **JAVA**
+- 🌱 I’m currently learning web development
 
 - 👯 I’m looking to collaborate on [JAVA enthusiastic](linkk)
 
