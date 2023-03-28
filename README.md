@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **JAVA**
 
-- 📫 How to reach me **s.norzang65@gmail.com**
+- 📫 Reach me at **s.norzang65@gmail.com**
 
 - 📄 Know about my experiences [[myresumedrivelink](https://rb.gy/ejpjnj)](myresumedrivelink)
 
