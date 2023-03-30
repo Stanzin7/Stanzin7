@@ -1,7 +1,8 @@
 # Stanzin-Readme
 
 <h1 align="center">Hi 👋, I'm Stanzin</h1>
-<h3 align="center">As an aspiring software engineer with a diverse skill set and passion for innovation, I am actively seeking an internship opportunity to contribute my expertise to cutting-edge software projects. With a background in computer science and a strong interest in open source development, I am highly motivated to learn from experienced professionals and collaborate with peers to create innovative, cost-effective softwares. My active participation on GitHub and within the open source community demonstrates my dedication to advancing the field of software engineering, and I am eager to apply these skills in a real-world setting.</h3>
+<h3 align="center">
+As a new member of the open-source community, I am an aspiring software engineer with a diverse skill set and a passion for innovation. I am excited to contribute my expertise to cutting-edge software projects as an intern, drawing on my background in computer science and strong interest in open-source development. Collaborating with experienced professionals and peers, I am motivated to create innovative software solutions. My recent acceptance into Google Summer of Code 2023 and current work with Drupal on their open-source project demonstrate my dedication to advancing the field of software engineering.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=stanzin7&label=Profile%20views&color=0e75b6&style=flat" alt="stanzin7" /> </p>
 
