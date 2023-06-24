@@ -21,7 +21,7 @@ As a new member of the open-source community, I am an aspiring software engineer
 
 - 📄 Know about my experiences https://stanzin7.github.io/Stanzin7-GSoC/
 
-- ⚡ Fun fact ** I am a co-founder at Cherker, Beverages startup. Check it out at www.cherker.in ****
+- ⚡ Fun fact ** I am a co-founder at Cherker, a beverage startup based in India. Check it out at www.cherker.in ****
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
