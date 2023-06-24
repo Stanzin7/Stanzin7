@@ -8,21 +8,20 @@ As a new member of the open-source community, I am an aspiring software engineer
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stanzin7" alt="stanzin7" /></a> </p>
 
-- 🔭 I’m currently working as a part-time Problem Adder with [Codingblocks](linkk)
+- 🔭 I’m currently working as Full stack Open source developer under a Google contract.
 
-- 🌱 I’m currently learning web development
+- 🌱 I’m currently learning web3 development
 
-- 👯 I’m looking to collaborate on [JAVA enthusiastic](linkk)
+- 👯 I’m looking to collaborate on interesting open-source projects.
 
-- 🤝 Happy to assist with software solutions [JAVA Mentor](linkk)
+- 🤝 I am also a Full-Stack freelancer. Happy to assist with software solutions.
 
-- 💬 Ask me about **JAVA**
 
 - 📫 Reach me at **s.norzang65@gmail.com**
 
-- 📄 Know about my experiences [[myresumedrivelink](https://rb.gy/ejpjnj)](myresumedrivelink)
+- 📄 Know about my experiences https://stanzin7.github.io/Stanzin7-GSoC/
 
-- ⚡ Fun fact ** I also play guitar professionally**
+- ⚡ Fun fact ** I am a co-founder at Cherker, Beverages startup. Check it out at www.cherker.in ****
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
