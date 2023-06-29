@@ -19,7 +19,7 @@ As a new member of the open-source community, I am an aspiring software engineer
 
 - 📫 Reach me at **s.norzang65@gmail.com**
 
-- 📄 Know about my experiences https://stanzin7.github.io/Stanzin7-GSoC/
+- 📄 Know about my experiences https://stanzin7.github.io/Google-Summer-of-Code/
 
 - ⚡ Fun fact ** I am a co-founder at Cherker, a beverage startup based in India. Check it out at www.cherker.in ****
 
