@@ -12,9 +12,10 @@ As a new member of the open-source community, I am an aspiring software engineer
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stanzin7" alt="stanzin7" /></a> </p>
 
-- 🔭 I’m a Full stack Open source developer at Drupal. Secured selection for Google Summer of Code (GSOC) '23.
-- 
-
+- 🔭 I’m a Full stack Open source developer at Drupal.
+  
+- Secured selection for Google Summer of Code (GSOC) '23.
+  
 - 🌱 I’m currently learning **ML/AI**
 
 - 👯 I’m looking to collaborate on interesting open-source projects.
