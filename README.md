@@ -6,7 +6,7 @@
 <h3 align="center" > A passionate FullStack Developer </h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-As a new member of the open-source community, I am an aspiring software engineer with a diverse skill set and a passion for innovation. I am excited to contribute my expertise to cutting-edge software projects as an intern, drawing on my background in computer science and strong interest in open-source development. Collaborating with experienced professionals and peers, I am motivated to create innovative software solutions. My recent acceptance into Google Summer of Code 2023 and current work with Drupal on their open-source project demonstrate my dedication to advancing the field of software engineering.</h3>
+As a new member of the open-source community, I am an aspiring software engineer with a diverse skill set and a passion for innovation. I am excited to contribute my expertise to cutting-edge software projects as an intern, drawing on my background in computer science and strong interest in open-source development. Collaborating with experienced professionals and peers, I am motivated to create innovative software solutions. </h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=stanzin7 &label=Profile%20views&color=0e75b6&style=flat" alt="stanzin7" /> </p>
 
