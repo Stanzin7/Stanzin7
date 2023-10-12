@@ -2,15 +2,9 @@
 
 [![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://rishavchanda.io)
 
-<h1 align="center">Hi 👋, I'm Stanzin</h1>
 <h3 align="center" > A passionate FullStack Developer </h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 As a new member of the open-source community, I am an aspiring software engineer with a diverse skill set and a passion for innovation. I am excited to contribute my expertise to cutting-edge software projects as an intern, drawing on my background in computer science and strong interest in open-source development. Collaborating with experienced professionals and peers, I am motivated to create innovative software solutions. </h3>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=stanzin7 &label=Profile%20views&color=0e75b6&style=flat" alt="stanzin7" /> </p>
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=stanzin7" alt="stanzin7" /></a> </p>
 
 - 🔭 Engaged in a CSS modernization project at Drupal, specifically with the Claro theme.
   
