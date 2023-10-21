@@ -18,7 +18,7 @@ As a new member of the open-source community, I am an aspiring software engineer
 
 - 📫 Reach me at **s.norzang65@gmail.com**
 
-- 📄 Know about my experiences https://stanzin7.github.io/Stanzin-Portfolio/ 
+- 📄 Know about my experiences [My Portfolio](https://stanzin7.github.io/myPortfolio/)
 
 - ⚡ Fun fact ** I am a co-founder at Cherker, a beverage startup based in India. Check it out at www.cherker.in \*\***
 
