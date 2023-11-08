@@ -2,7 +2,7 @@
 
 [![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://rishavchanda.io)
 
-<h3 align="center" > A passionate FullStack Developer. </h3>
+<h3 align="center" > About me  </h3>
 
 As a new member of the open-source community, I am an aspiring software engineer with a diverse skill set and a passion for innovation. I am excited to contribute my expertise to cutting-edge software projects as an intern, drawing on my background in computer science and strong interest in open-source development. Collaborating with experienced professionals and peers, I am motivated to create innovative software solutions. </h3>
 
@@ -20,7 +20,8 @@ As a new member of the open-source community, I am an aspiring software engineer
 
 - 📄 Know about my experiences [My Portfolio](https://stanzin7.github.io/myPortfolio/)
 
-- ⚡ Fun fact ** I am a co-founder at Cherker, a beverage startup based in India. Check it out at www.cherker.in \*\***
+- ⚡ Fun fact: In addition to my passion for coding, I love challenging myself with endurance sports. I'm an avid marathon and ultramarathon runner, constantly pushing my limits and enjoying the journey of self-improvement and resilience.
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
