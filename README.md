@@ -6,7 +6,7 @@
 
 As a new member of the open-source community, I am an aspiring software engineer with a diverse skill set and a passion for innovation. I am excited to contribute my expertise to cutting-edge software projects as an intern, drawing on my background in computer science and strong interest in open-source development. Collaborating with experienced professionals and peers, I am motivated to create innovative software solutions. </h3>
 
-- 🔭 Engaged in a CSS modernization project at Drupal, specifically with the Claro theme.
+- 🔭 Engaged in a CSS modernization project for Drupal's Claro theme, I successfully refactored over 10 patches. This involved enhancing code efficiency and ensuring compatibility with the latest web standards.
   
 - 🌱 I’m currently learning **ML/AI**
 
@@ -14,9 +14,9 @@ As a new member of the open-source community, I am an aspiring software engineer
 
 - 💬 Ask me about ** Full-Stack development and AI/ML **
 
-- 🤝 I am also a Full-Stack freelancer. Happy to assist with software solutions.
+- 🤝 I am also a Java-Full-Stack freelancer. Happy to assist with software solutions.
 
-- 📫 Reach me at **s.norzang65@gmail.com**
+- 📫 Reach me at **snorzang65@gmail.com**
 
 - 📄 Know about my experiences [My Portfolio](https://stanzin7.github.io/myPortfolio/)
 
