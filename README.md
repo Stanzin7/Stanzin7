@@ -18,7 +18,7 @@ As a new member of the open-source community, I am an aspiring software engineer
 
 - 📫 Reach me at **snorzang65@gmail.com**
 
-- 📄 Know about my experiences [My Portfolio](https://stanzin7.github.io/myPortfolio/)
+- 📄 Know about my experiences [My Portfolio](https://stanzin7.github.io/Portfolio/)
 
 - ⚡ Fun fact: In addition to my passion for coding, I love challenging myself with endurance sports. I'm an avid marathon and ultramarathon runner, constantly pushing my limits and enjoying the journey of self-improvement and resilience.
 
