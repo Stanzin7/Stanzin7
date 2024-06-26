@@ -18,13 +18,7 @@ As a new member of the open-source community, I am an aspiring software engineer
 
 - 📫 Reach me at **snorzang65@gmail.com**
 
-- 📄 Know about my experiences [My Portfolio](https://stanzin7.github.io/Portfolio/)
-
 - ⚡ Fun fact: In addition to my passion for coding, I love challenging myself with endurance sports. I'm an avid marathon and ultramarathon runner, constantly pushing my limits and enjoying the journey of self-improvement and resilience.
-
-### Co-Founder of cherker.in :tea:
-I'm thrilled to announce that alongside my tech endeavors, I've also co-founded [cherker.in](http://cherker.in), an online tea and beverage store dedicated to those who appreciate the finer nuances of tea. We've put together a delightful array of choices to suit every taste. You're welcome to visit and explore our carefully selected range of teas and beverages. Cheers to your next cup of tea! :coffee:
-
 
 
 <h3 align="left">Connect with me:</h3>
