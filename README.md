@@ -14,8 +14,6 @@ As a new member of the open-source community, I am an aspiring software engineer
 
 - 💬 Ask me about ** Full-Stack development and AI/ML **
 
-- 🤝 I am also a Java-Full-Stack freelancer. Happy to assist with software solutions.
-
 - 📫 Reach me at **snorzang65@gmail.com**
 
 - ⚡ Fun fact: In addition to my passion for coding, I love challenging myself with endurance sports. I'm an avid marathon and ultramarathon runner, constantly pushing my limits and enjoying the journey of self-improvement and resilience.
