@@ -9,9 +9,15 @@ Google contractor and Drupal Core contributor with 5+ years of experience buildi
 Currently developing enterprise-grade Drupal sites for Fortune 500 Hanover Insurance while mentoring the next generation of developers through Google Summer of Code. Passionate about open source sustainability—I've been funding open source organizations since my first internship with Google Summer of Code.
 
 🔭 Google contractor building Drupal.org core features and mentoring GSoC students on cutting-edge projects like FAISS vector search integration
+
 🌱 Currently expanding into AI/ML integration with web applications
+
 👯 Looking to collaborate on mission-driven open source projects
+
 💬 Ask me about Drupal architecture, AI automation, and enterprise web development
+
 📫 Reach me at snorzang65@gmail.com
+
 💰 Open source advocate - Donating 2% of income to support open source sustainability since 2021
+
 ⚡ Fun fact: When I'm not coding, I'm pushing limits as a marathon and ultramarathon runner. The endurance and mental resilience from long-distance running directly translates to tackling complex technical challenges!
