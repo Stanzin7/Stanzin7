@@ -18,7 +18,7 @@ Currently developing enterprise-grade Drupal sites for Fortune 500 Hanover Insur
 
 📫 Reach me at snorzang65@gmail.com
 
-💰 Open source advocate - Donating 2% of income to support open source sustainability since 2021
+💰 Open source advocate - Donating 2% of income to support open source sustainability since 2022
 
 ⚡ Fun fact: When I'm not coding, I'm pushing limits as a marathon and ultramarathon runner. The endurance and mental resilience from long-distance running directly translates to tackling complex technical challenges!
 
